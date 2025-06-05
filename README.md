@@ -1,64 +1,82 @@
-COVID-19 Behavioral Research: Educator Decision-Making & Perceptions
-📘 Overview
-This research project analyzes K–12 educators' decision-making processes and instructional perceptions during the COVID-19 pandemic. Designed as the capstone for the M.Ed. in Evaluation, Assessment, Research, and Learning at Georgia Southern University, the study used a mixed-methods approach combining survey data, regression analysis, and ANOVA to uncover how teachers responded to distance learning requirements and shifting instructional priorities.
+# Teachers’ Perspectives on Distance Learning During COVID-19
 
-🎯 Objectives
-Understand how educators perceived distance learning effectiveness during COVID-19.
+**Author:** Kelly Arseneau  
+**Affiliation:** Georgia Southern University  
+**Capstone Project – M.Ed. in Evaluation, Assessment, Research, and Learning**  
+📬 Contact: kelly.arseneau@gmail.com
 
-Explore factors influencing instructional decisions and teacher confidence.
+---
 
-Identify patterns in teacher behavior and response to remote learning environments.
+## 📘 Overview
 
-Apply behavioral modeling concepts and quantitative methods to education research.
+This project examines how K–12 teachers adapted to emergency remote instruction during the COVID-19 pandemic. Using semi-structured interviews and thematic coding, the study surfaces educators’ lived experiences with digital platforms, workload changes, family engagement, and administrative support.
 
-🧪 Methods
-Data Collection: Survey distributed to K–12 educators during peak pandemic response (2020–2021).
+The research was conducted as part of my capstone project at Georgia Southern University and contributes to a broader understanding of decision-making, self-efficacy, and instructional design in crisis contexts.
 
-Quantitative Analysis:
+---
 
-Conducted ANOVA and linear regression to explore relationships between teaching experience, comfort with online tools, and instructional choices.
+## 🎯 Objectives
 
-Qualitative Insights:
+- Understand how educators perceived the effectiveness of distance learning during COVID-19.
+- Explore behavioral and instructional decision-making under stress.
+- Identify structural and psychological barriers to effective remote instruction.
+- Apply qualitative research methods to inform future crisis-readiness strategies in education.
 
-Thematic coding of open-ended responses to contextualize quantitative results.
+---
 
-Frameworks Used:
+## 🧪 Methods
 
-CIPP Model (Context, Input, Process, Product)
+- **Participants:** 3 elementary school teachers (K–5) during Fall 2020  
+- **Data Collection:** Semi-structured interviews (Zoom), anonymized, transcribed  
+- **Qualitative Analysis:** Thematic coding across 5 core categories  
+  - Lack of preparedness
+  - Increased workload
+  - Administrative breakdowns
+  - Student/family engagement
+  - Decline in teacher self-efficacy
+- **Frameworks Used:**  
+  - IRB-compliant procedures  
+  - Interview Guide (adapted from Kennedy, 2001)  
+  - CIPP Model (Context, Input, Process, Product)
 
-IRB-compliant survey design
+---
 
-Principles from behavioral economics and mathematical psychology
+## 📊 Key Findings
 
-📊 Key Findings
-Educator confidence and decision-making were highly influenced by prior exposure to digital tools.
+- Teachers experienced high levels of stress, burnout, and reduced instructional confidence.
+- Minimal administrative guidance and unrealistic expectations added to cognitive overload.
+- Educator workload increased by 30–50%, often requiring evening and weekend hours.
+- Parent involvement was a critical—but inconsistent—factor in student success.
+- Emergency response protocols lacked instructional continuity plans for prolonged closures.
 
-Teachers perceived a significant decline in student engagement, even when adapting content.
+---
 
-There was a measurable shift toward autonomy in content delivery during school closures.
+## 🔧 Tools & Technologies
 
-Behavioral and perceptual data revealed underlying stress factors that impacted instruction quality.
+- **Qualitative Coding:** Manual thematic analysis  
+- **Survey Design:** IRB-compliant methodology  
+- **Tools Used:** Zoom (interviews), Word, Excel, USB-encrypted storage  
+- **Presentation:** Academic write-up with citations and implications for practice
 
-🔧 Tools & Technologies
-SPSS, Excel, SAS – for statistical modeling
+---
 
-Qualtrics – for survey distribution
+## 📁 Repository Contents
 
-Thematic Analysis – for open-response data
+- `K.Arseneau_Distance Learning During COVID-19.pdf` — Full capstone paper  
+- `interview-guide.pdf` — Semi-structured interview questions  
+- `references.md` — MLA citations  
 
-IRB Approval & Compliance – ensured ethical handling of human subjects data
+---
 
-📁 Repository Contents
-research-summary.pdf – Executive summary of findings
+## 📌 Citation
 
-survey-instrument.pdf – Copy of survey questions
+If referencing this work, please cite:
 
-references.md – APA/MLA citations used in final write-up
+**Arseneau, K.** (2021). *Teachers’ Perspectives on Distance Learning During COVID-19* [Capstone Project, Georgia Southern University].
 
-📌 Citation
-If referencing this work, please cite as:
-Arseneau, K. (2021). Teachers’ Perspectives on Distance Learning During COVID-19 [Capstone Project, Georgia Southern University].
+---
 
-📬 Contact
-Kelly Arseneau
-kelly.arseneau@gmail.com
+## 🧠 Final Note
+
+This project reflects my commitment to using evidence-based research and stakeholder perspectives to inform systemic improvements. It also underscores my interest in user research, behavioral data, and qualitative insight generation — skills I now apply in data science, experimentation, and analysis roles.
+
